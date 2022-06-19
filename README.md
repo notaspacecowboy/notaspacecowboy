@@ -1,6 +1,5 @@
 [![readme](https://user-images.githubusercontent.com/60165135/174496689-f975a202-6aef-4922-bb11-aa0fd369744a.png)](https://github.com/notaspacecowboy?tab=repositories)
 
----
 
 I'm Zack Yang, a passionate game programmer, and a university student specialized in Computer Science.
 
@@ -35,10 +34,15 @@ Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us fo
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 📫 How to reach me: 
 
 &ensp;&ensp;&ensp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zack-yang-70a73b188/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pakho5211@gmail.com)
+
+
+<a href="https://profile.codersrank.io/user/notaspacecowboy/">
+  <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=notaspacecowboy />
+</a>
