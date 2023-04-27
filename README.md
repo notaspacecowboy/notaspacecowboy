@@ -2,7 +2,8 @@
 
 
 I'm Zack Yang, a passionate game programmer, and a university student specialized in Computer Science. 
-👉 https://www.zackyang.blog/
+
+👉 https://www.zackyang.blog/ 👈
 
 ---
 
