@@ -1,9 +1,7 @@
 [![readme](https://user-images.githubusercontent.com/60165135/174496689-f975a202-6aef-4922-bb11-aa0fd369744a.png)](https://github.com/notaspacecowboy?tab=repositories)
 
 
-I'm Zack Yang, a passionate game programmer, and a university student specialized in Computer Science.
-
-Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us forget and escape from reality, but games🎮 are ... something else, it is new, full of potential, and it has much much more freedom!
+I'm Zack Yang, a passionate game programmer, and a university student specialized in Computer Science. 👉 https://www.zackyang.blog/
 
 ---
 
