@@ -41,6 +41,7 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 
 📢 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenGL Basics &lpar;1&rpar;: Brief Overview](zackyang.me/article/opengl-basis-1)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://profile.codersrank.io/user/notaspacecowboy/">
