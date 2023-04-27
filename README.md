@@ -41,6 +41,10 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zack-yang-70a73b188/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pakho5211@gmail.com)
 
+📢 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <a href="https://profile.codersrank.io/user/notaspacecowboy/">
   <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=notaspacecowboy&skills=" />
 </a>
