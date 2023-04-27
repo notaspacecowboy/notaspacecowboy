@@ -3,8 +3,6 @@
 
 I'm Zack Yang, a passionate game programmer, and a university student specialized in Computer Science. 
 
-👉 https://www.zackyang.blog/ 👈
-
 ---
 
 🌱 I’m currently learning:
