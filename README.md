@@ -48,6 +48,6 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 
 <!-- post-list:end -->
 
-<a href="https://profile.codersrank.io/user/notaspacecowboy/">
-  <img width="50%" align="left" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=notaspacecowboy&skills=" />
-</a>
+<!-- <a href="https://profile.codersrank.io/user/notaspacecowboy/">
+  <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=notaspacecowboy&skills=" />
+</a> -->
