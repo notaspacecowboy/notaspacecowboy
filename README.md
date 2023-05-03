@@ -40,12 +40,12 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pakho5211@gmail.com)
 
 📢 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
+<!-- post-list:start -->
 - [OpenGL Basics &lpar;3&rpar;: Mathematical Foundations Ctn.](https://zackyang.blog/article/opengl-basis-3)
 - [OpenGL Basics &lpar;2&rpar;: Mathematical Foundations](https://zackyang.blog/article/opengl-basis-2)
 - [Language Models and ChatGPT](https://zackyang.blog/article/language-model)
 - [OpenGL Basics &lpar;1&rpar;: Brief Overview](https://zackyang.blog/article/opengl-basis-1)
-<!-- BLOG-POST-LIST:END -->
+<!-- post-list:end -->
 
 <a href="https://profile.codersrank.io/user/notaspacecowboy/">
   <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=notaspacecowboy&skills=" />
