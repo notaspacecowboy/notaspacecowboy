@@ -41,12 +41,9 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 
 📢 Latest Blog posts:
 <!-- post-list:start -->
-[Read more](https://zackyang.blog/)
 [![Chapter 3 - TCP协议详解 | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Chapter_3_-_TCP协议详解___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/50c47071-79a3-465a-ba42-ed560559656c)
 [![Chapter 1 - TCP/IP概述 | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Chapter_1_-_TCP_IP概述___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/feae7e3d-032e-45fd-9687-3620a6dfdf5c)
 [![x86 Registers and Memory Read/Write | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/x86_Registers_and_Memory_Read_Write___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/7ca9e1f3-8e80-4c2e-b5b4-b7cce930b25b)
-[![OpenGL Basics (3): Mathematical Foundations Ctn. | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/OpenGL_Basics_(3)__Mathematical_Foundations_Ctn.___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/opengl-basis-3)
-[![OpenGL Basics (2): Mathematical Foundations | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/OpenGL_Basics_(2)__Mathematical_Foundations___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/opengl-basis-2)
 
 
 <!-- post-list:end -->
