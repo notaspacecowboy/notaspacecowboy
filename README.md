@@ -42,9 +42,9 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 </a>
 
 <!-- post-list:start -->
-[![Chapter 3 - TCP协议详解 | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Chapter_3_-_TCP协议详解___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/chapter3-tcp-in-deep)
-[![Chapter 2 - IP协议 | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Chapter_2_-_IP协议___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/chapter2-ip-protocol)
-[![Chapter 1 - TCP/IP概述 | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Chapter_1_-_TCP_IP概述___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/chapter1-tcp-ip)
+[![Naked Functions & C/C++ Calling Conventions | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Naked_Functions___C_C++_Calling_Conventions___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-naked-function-and-calling-conventions)
+[![Subroutines and Stacks in x86 Assembly | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Subroutines_and_Stacks_in_x86_Assembly___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-subroutines-and-assembly)
+[![x86 Registers and Memory Read/Write | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/x86_Registers_and_Memory_Read_Write___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-registers)
 
 
 <!-- post-list:end -->
