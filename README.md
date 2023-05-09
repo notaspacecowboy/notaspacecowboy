@@ -42,9 +42,9 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 </a>
 
 <!-- post-list:start -->
-[![Naked Functions & C/C++ Calling Conventions | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Naked_Functions___C_C++_Calling_Conventions___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-naked-function-and-calling-conventions)
+[![C/C++ Runtime Memory Layout | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C_C++_Runtime_Memory_Layout___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-naked-function-and-calling-conventions)
+[![C/C++ Runtime Memory Layout | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C_C++_Runtime_Memory_Layout___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-naked-function-and-calling-conventions)
 [![Subroutines and Stacks in x86 Assembly | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Subroutines_and_Stacks_in_x86_Assembly___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-subroutines-and-assembly)
-[![x86 Registers and Memory Read/Write | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/x86_Registers_and_Memory_Read_Write___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-registers)
 
 
 <!-- post-list:end -->
