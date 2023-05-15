@@ -42,9 +42,9 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 </a>
 
 <!-- post-list:start -->
-[![x86 Assembly Code Generation for Switch Statements | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/x86_Assembly_Code_Generation_for_Switch_Statements___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/how-assembly-handles-large-return-values)
-[![C/C++ Runtime Memory Layout | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C_C++_Runtime_Memory_Layout___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/c-runtime-memory-layout)
-[![Subroutines and Stacks in x86 Assembly | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Subroutines_and_Stacks_in_x86_Assembly___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-subroutines-and-assembly)
+[![How C/C++ Compiler Generate Assembly Code For Switch Statement | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/How_C_C++_Compiler_Generate_Assembly_Code_For_Switch_Statement___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/assembly-code-generation-for-switch-statement)
+[![How C/C++ Compiler Generate x86 Assembly Code For Large Return Values | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/How_C_C++_Compiler_Generate_x86_Assembly_Code_For_Large_Return_Values___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/assembly-code-generation-for-large-return-values)
+[![Chapter 3 - TCP协议详解 | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Chapter_3_-_TCP协议详解___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/chapter3-tcp-in-deep)
 
 
 <!-- post-list:end -->
