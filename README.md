@@ -42,7 +42,7 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 </a>
 
 <!-- post-list:start -->
-[![How x86 assembly handles large return values | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/How_x86_assembly_handles_large_return_values___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/how-assembly-handles-large-return-values)
+[![x86 Assembly Code Generation for Switch Statements | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/x86_Assembly_Code_Generation_for_Switch_Statements___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/how-assembly-handles-large-return-values)
 [![C/C++ Runtime Memory Layout | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C_C++_Runtime_Memory_Layout___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/c-runtime-memory-layout)
 [![Subroutines and Stacks in x86 Assembly | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Subroutines_and_Stacks_in_x86_Assembly___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-subroutines-and-assembly)
 
