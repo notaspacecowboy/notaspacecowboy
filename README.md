@@ -42,9 +42,9 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 </a>
 
 <!-- post-list:start -->
+[![IAT Table | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/IAT_Table___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/iat-table)
 [![Injecting a Simple Message Box at the Startup of a Windows Application | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Injecting_a_Simple_Message_Box_at_the_Startup_of_a_Windows_Application___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/add-message-box-to-any-executable)
 [![How C/C++ Compiler Generate Assembly Code For Switch Statement | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/How_C_C++_Compiler_Generate_Assembly_Code_For_Switch_Statement___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/assembly-code-generation-for-switch-statement)
-[![How C/C++ Compiler Generate x86 Assembly Code For Large Return Values | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/How_C_C++_Compiler_Generate_x86_Assembly_Code_For_Large_Return_Values___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/assembly-code-generation-for-large-return-values)
 
 
 <!-- post-list:end -->
