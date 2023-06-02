@@ -78,9 +78,9 @@
       <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
         <div class="image" />
 <div class="text">
-          <div class="title">How&#0032;C&#0047;C&#0043;&#0043;&#0032;Compiler&#0032;Generate&#0032;Assembly&#0032;Code&#0032;For&#0032;Switch&#0032;Statement&#0032;&#0124;&#0032;Zack&#0032;Yang’s&#0032;Blog</div>
+          <div class="title">Injecting&#0032;a&#0032;DLL&#0032;into&#0032;a&#0032;Windows&#0032;Executable&#0032;By&#0032;Modifying&#0032;PE&#0032;Import&#0032;Table&#0032;&#0124;&#0032;Zack&#0032;Yang’s&#0032;Blog</div>
           <div class="description"></div>
-          <div class="date">5&#0047;17&#0047;23</div>
+          <div class="date">6&#0047;2&#0047;23</div>
           <div class="data">
             <span class="author"></span> 
           </div>

@@ -42,9 +42,9 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 </a>
 
 <!-- post-list:start -->
+[![Injecting a DLL into a Windows Executable By Modifying PE Import Table | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Injecting_a_DLL_into_a_Windows_Executable_By_Modifying_PE_Import_Table___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/dll-injection-with-import-table)
 [![IAT Table | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/IAT_Table___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/iat-table)
 [![Injecting a Simple Message Box at the Startup of a Windows Application | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Injecting_a_Simple_Message_Box_at_the_Startup_of_a_Windows_Application___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/add-message-box-to-any-executable)
-[![How C/C++ Compiler Generate Assembly Code For Switch Statement | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/How_C_C++_Compiler_Generate_Assembly_Code_For_Switch_Statement___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/assembly-code-generation-for-switch-statement)
 
 
 <!-- post-list:end -->
