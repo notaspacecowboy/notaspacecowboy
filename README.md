@@ -42,9 +42,9 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 </a>
 
 <!-- post-list:start -->
+[![C++ Virtual Table Implementation Details | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C++_Virtual_Table_Implementation_Details___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/vtable-impl-details)
+[![Naked Functions & C/C++ Calling Conventions | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Naked_Functions___C_C++_Calling_Conventions___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-naked-function-and-calling-conventions)
 [![Injecting a DLL into a Windows Executable By Modifying PE Import Table | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Injecting_a_DLL_into_a_Windows_Executable_By_Modifying_PE_Import_Table___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/dll-injection-with-import-table)
-[![IAT Table | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/IAT_Table___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/iat-table)
-[![Injecting a Simple Message Box at the Startup of a Windows Application | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Injecting_a_Simple_Message_Box_at_the_Startup_of_a_Windows_Application___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/add-message-box-to-any-executable)
 
 
 <!-- post-list:end -->
