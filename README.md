@@ -42,8 +42,8 @@ I'm Zack Yang, a passionate game programmer, and a university student specialize
 </a>
 
 <!-- post-list:start -->
+[![Win32 Event Queue | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Win32_Event_Queue___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/win32-event-queue)
 [![C++ Virtual Table Implementation Details | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C++_Virtual_Table_Implementation_Details___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/vtable-impl-details)
-[![Naked Functions & C/C++ Calling Conventions | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Naked_Functions___C_C++_Calling_Conventions___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x86-naked-function-and-calling-conventions)
 [![Injecting a DLL into a Windows Executable By Modifying PE Import Table | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Injecting_a_DLL_into_a_Windows_Executable_By_Modifying_PE_Import_Table___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/dll-injection-with-import-table)
 
 
