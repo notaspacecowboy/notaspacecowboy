@@ -42,9 +42,9 @@ I'm Zack Yang, a passionate game programmer, and a graduate student specialized 
 </a>
 
 <!-- post-list:start -->
+[![x64dbg Message/Memory Breakpoint | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/x64dbg_Message_Memory_Breakpoint___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x64dbg-message-memory-breakpoint)
+[![How C/C++ Compiler Generate Assembly Code For Switch Statement | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/How_C_C++_Compiler_Generate_Assembly_Code_For_Switch_Statement___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/assembly-code-generation-for-switch-statement)
 [![Wide Character Types - What We Need Them For? | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Wide_Character_Types_-_What_We_Need_Them_For____Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/wide-char-types)
-[![Win32 Event Queue | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Win32_Event_Queue___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/win32-event-queue)
-[![C++ Virtual Table Implementation Details | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C++_Virtual_Table_Implementation_Details___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/vtable-impl-details)
 
 
 <!-- post-list:end -->
