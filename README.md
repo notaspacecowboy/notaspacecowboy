@@ -42,9 +42,9 @@ I'm Zack Yang, a passionate game programmer, and a graduate student specialized 
 </a>
 
 <!-- post-list:start -->
-[![PE Resource Table](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/PE_Resource_Table.svg)](https://zackyang.blog/article/pe-resource-table)
-[![x64dbg Message/Memory Breakpoint](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/x64dbg_Message_Memory_Breakpoint.svg)](https://zackyang.blog/article/x64dbg-message-memory-breakpoint)
-[![How C/C++ Compiler Generate Assembly Code For Switch Statement](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/How_C_C++_Compiler_Generate_Assembly_Code_For_Switch_Statement.svg)](https://zackyang.blog/article/assembly-code-generation-for-switch-statement)
+[![PE Resource Table | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/PE_Resource_Table___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/pe-resource-table)
+[![x64dbg Message/Memory Breakpoint | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/x64dbg_Message_Memory_Breakpoint___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/x64dbg-message-memory-breakpoint)
+[![How C/C++ Compiler Generate Assembly Code For Switch Statement | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/How_C_C++_Compiler_Generate_Assembly_Code_For_Switch_Statement___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/assembly-code-generation-for-switch-statement)
 
 
 <!-- post-list:end -->
