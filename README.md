@@ -44,7 +44,7 @@ I'm Zack Yang, a passionate game programmer, and a graduate student specialized 
 <!-- post-list:start -->
 [![Win32 Thread Control | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Win32_Thread_Control___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/win32-thread-control)
 [![C++ Virtual Table Implementation Details | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C++_Virtual_Table_Implementation_Details___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/vtable-impl-details)
-[![IAT Table | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/IAT_Table___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/iat-table)
+[![Zack Yang’s Blog | loading](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/Zack_Yang’s_Blog___loading.svg)](https://zackyang.blog/undefined)
 
 
 <!-- post-list:end -->
