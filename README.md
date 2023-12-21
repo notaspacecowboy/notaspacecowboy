@@ -42,9 +42,9 @@ I'm Zack Yang, a passionate game programmer, and a graduate student specialized 
 </a>
 
 <!-- post-list:start -->
+[![enum vs enum class | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/enum_vs_enum_class___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/cpp-enum-vs-enum-class)
+[![deleted functions | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/deleted_functions___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/cpp-deleted-functions)
 [![C++ Type Deduction | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C++_Type_Deduction___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/cpp-type-deduction)
-[![C++ Virtual Table Implementation Details | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C++_Virtual_Table_Implementation_Details___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/vtable-impl-details)
-[![IAT Table | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/IAT_Table___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/iat-table)
 
 
 <!-- post-list:end -->
