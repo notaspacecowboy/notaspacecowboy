@@ -42,9 +42,9 @@ I'm Zack Yang, a passionate game programmer, and a graduate student specialized 
 </a>
 
 <!-- post-list:start -->
-[![enum vs enum class | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/enum_vs_enum_class___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/cpp-enum-vs-enum-class)
-[![deleted functions | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/deleted_functions___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/cpp-deleted-functions)
 [![C++ Type Deduction | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C++_Type_Deduction___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/cpp-type-deduction)
+[![C++ noexcept Keyword  | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/C++_noexcept_Keyword____Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/cpp-noexcept-keyword)
+[![enum vs enum class | Zack Yang’s Blog](https://raw.githubusercontent.com/notaspacecowboy/notaspacecowboy/master/blog-post-list-output/NotionNext_BLOG/enum_vs_enum_class___Zack_Yang’s_Blog.svg)](https://zackyang.blog/article/cpp-enum-vs-enum-class)
 
 
 <!-- post-list:end -->
